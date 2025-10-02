@@ -16,7 +16,7 @@ Interested in **Video Games, Photography, Badminton, Card/Board Games, Coding (S
 
 ---
 
-##Technical Skills
+## Technical Skills
 - **Languages:** Python, Java, SQL, HTML, CSS, JavaScript, Bash/Shell Scripting, Assembly, ADB andriod
 - **Tools & Software:** Git/GitHub, Microsoft Office, Eclipse, Visual Studio Code, Google Cloud Platform, Visual Paradigm, LucidChart, Power BI, Figma, Canva
 - **Databases:** MySQL, Oracle APEX
