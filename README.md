@@ -6,19 +6,25 @@
 - [Resume](LINK-TO-YOUR-RESUME) - gdrive/onedrive
 
 ---
-**Software Engineering student from Sunway University** (Expected Graduation: Jan 2027)  
+
+-- **Software Engineering student from Sunway University** (Expected Graduation: Jan 2027)  
+
 ---
-Passionate about **Java, Python, Web and Game Development, Data, Cloud Computing and AI**  
+
+-- Passionate about **Java, Python, Web and Game Development, Data, Cloud Computing and AI**  
 ---
-Currently learning **Database Management System, Business Analystic, Management and Marketing**  
+
+-- Currently learning **Database Management System, Business Analystic, Management and Marketing**  
+
 ---
-Interested in **Video Games, Photography, Badminton, Card/Board Games, Coding (Self-Learning - C, C++ and R languages)**  
+
+-- Interested in **Video Games, Photography, Badminton, Card/Board Games, Coding (Self-Learning - C, C++ and R languages)**  
 
 ---
 
 ## Technical Skills
 - **Languages:** Python, Java, SQL, HTML, CSS, JavaScript, Bash/Shell Scripting, Assembly, ADB andriod
-- **Tools & Software:** Git/GitHub, Microsoft Office, Eclipse, Visual Studio Code, Google Cloud Platform, Visual Paradigm, LucidChart, Power BI, Figma, Canva
+- **Tools & Software:** Git/GitHub, Microsoft Office, Eclipse, Visual Studio Code, Google Cloud Platform, Visual Paradigm, LucidChart, Power BI, Figma, Canva, Zapper
 - **Databases:** MySQL, Oracle APEX
 
 ---
