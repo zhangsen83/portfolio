@@ -1,4 +1,4 @@
-# portfolio (Works in Progress - be done in Oct 5)
+# Sen's Portfolio (Works in Progress - be done in Oct 5)
 
 
 ## Projects
