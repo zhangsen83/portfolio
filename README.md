@@ -2,7 +2,7 @@
 
 # Hi there and welcome, I'm Cheah Zhang Sen and feel free to explore my repositories and connect with me!
 - [LinkedIn](https://linkedin.com/in/zhang-sen-cheah)  
-- [Email](cheahzhangsen@egmail.com)  
+- [Email](mailto:cheahzhangsen@egmail.com)  
 - [Resume](LINK-TO-YOUR-RESUME) - gdrive/onedrive
 
 **Software Engineering student @ Sunway University** (Expected Graduation: Jan 2027)  
