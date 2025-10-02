@@ -7,18 +7,11 @@
 
 ---
 
--- **Software Engineering student from Sunway University** (Expected Graduation: Jan 2027)  
-
----
-
--- Passionate about **Java, Python, Web and Game Development, Data, Cloud Computing and AI**  
----
-
--- Currently learning **Database Management System, Business Analystic, Management and Marketing**  
-
----
-
--- Interested in **Video Games, Photography, Badminton, Card/Board Games, Coding (Self-Learning - C, C++ and R languages)**  
+## About Me
+- **A Software Engineering student from Sunway University** (Expected Graduation: Jan 2027)  
+- Passionate about **Java, Python, Web and Game Development, Data, Cloud Computing and AI**  
+- Currently learning **Database Management System, Business Analystic, Management and Marketing**  
+- Interested in **Video Games, Photography, Badminton, Card/Board Games, Coding (Self-Learning - C, C++ and R languages)**  
 
 ---
 
