@@ -15,15 +15,29 @@
 
 ---
 
-## Technical Skills
+## Tech Stack
 - **Languages:** Python, Java, SQL, HTML, CSS, JavaScript, Bash/Shell Scripting, Assembly, ADB andriod
 - **Tools & Software:** Git/GitHub, Microsoft Office, Eclipse, Visual Studio Code, Google Cloud Platform, Visual Paradigm, LucidChart, Power BI, Figma, Canva, Zapper
 - **Databases:** MySQL, Oracle APEX
 
 ---
 
+## Memorable Projects
+- **Programming Principles – School Management System (Python)**  
+  Python-based system to manage assignments, timetables, and attendance records.  
+- **Object-Oriented Programming Fundamentals – Pokemon Ga-Ole (Python)**
+- **Web Fundamentals – Gaming Blog Website (HTML, CSS, JavaScript)**  
+  Responsive blog website with front-end interactivity.
+- **Database Fundamentals – Restaurant Database System (SQL + ERD)**  
+  SQL-based project with ER diagrams and structured queries.
+- **Software Engineering – Smart Vehicle Performance System (SVPS)**  
+  Designed a UI/UX mobile prototype in Figma to monitor and analyze vehicle performance focusing on usability and user experience testing.
+  [Figma (SVPS Mobile UI)](https://www.figma.com/proto/YyESUB099Jdq8nbPNCpYVx/SVPS-Mobile-UI?node-id=1-1309&t=4ATStl0hlZmC4Kq0-1)
+- **Data Structures & Algorithms (Python)** – Implemented linked lists, stacks, queues, and binary trees.  
 
-## Project Timeline  
+
+
+## Project Timeline  [](https://___.com/in/zhang-sen-cheah)  
 
 ### 🎓 College  
 - **Intro to Programming (Java + GUI)** – Java project based on coding graphical interface.  
