@@ -8,13 +8,13 @@
 - **A Software Engineering student from Sunway University** (Expected Graduation: Jan 2027)  
 - Passionate about **Java, Python, Web and Game Development, Data, Cloud Computing and AI**  
 - Currently learning: **Database Management System, Business Analystic, Management and Marketing**  
-- Interested in **Video Games, Photography, Badminton, Card/Board Games, Coding, Computer Hardware**  
+- Interested in **Video Games, Coding, Computer Hardware & Software, Design, Photography, Badminton, Card/Board Games**  
 
 ---
 
 ## Tech Stack
 - **Languages:** Python, Java, SQL, HTML, CSS, JavaScript, Bash/Shell Scripting, Assembly, ADB andriod
-- **Tools & Software:** Git/GitHub, Microsoft Office, Eclipse, IDLE, Visual Studio Code, Google Cloud Platform, Visual Paradigm, LucidChart, Power BI, Figma, Canva, Zapper
+- **Tools & Software:** Git/GitHub, Microsoft Office, Eclipse, IDLE, Visual Studio Code, Google Cloud Platform, Visual Paradigm, LucidChart, Power BI, Figma, Canva, Zapper, Wix
 - **Databases:** MySQL, Oracle APEX
 
 ---
@@ -57,7 +57,7 @@
  
 - **Pokemon Ga-Ole - Console-Based + GUI (Java)**:
 
-
+- **AR SDG Project**:
   
 ---
 
