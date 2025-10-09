@@ -48,7 +48,6 @@
   - Implemented business rules and constraints to ensure valid orders, stock management, and secure transactions.
   - [View on GitHub](https://zhangsen83.github.io/Database-Fundamentals/)
 
-  
 - **Smart Vehicle Performance System (SVPS)**:
   - Designed a UI/UX mobile prototype in Figma to monitor and analyze vehicle performance focusing on usability and user experience testing.
   - Prepared a comprehensive SE project report documenting project planning, analysis, and design phases, including objectives, scope, requirements, and system functionality.
@@ -56,7 +55,12 @@
   - [Figma (SVPS Mobile UI)](https://www.figma.com/proto/YyESUB099Jdq8nbPNCpYVx/SVPS-Mobile-UI?node-id=1-1309&t=4ATStl0hlZmC4Kq0-1)
  
 - **Pokemon Ga-Ole - Console-Based + GUI (Java)**:
-
+  - Developed an Object-Oriented Pokémon battle simulation game using Java, inspired by Pokémon Ga-Ole.
+  - Implemented core OOP principles including inheritance, polymorphism, encapsulation, and abstraction for modular and maintainable code design.
+  - Built a command-line gameplay system complemented by a GUI-based battle interface using Java Swing for interactive visual combat.
+  - Designed turn-based combat mechanics, Pokémon stats, and move effectiveness logic with reusable class hierarchies.
+  - [View on GitHub](https://zhangsen83.github.io/Object-Oriented-Programming-Fundamentals/)
+  
 
 - **AR SDG Project**:
   
