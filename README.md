@@ -20,8 +20,8 @@
 ---
 
 ## Featured Projects
-- **School Management System (Python)**:
-  - Python-based system to manage assignments, timetables, and attendance records for students and faculty.
+- **Python-Based Classroom Management System (Python)**:
+  - A system to manage assignments, timetables, and attendance records for students and faculty.
   - Developed core modules for data storage, retrieval, and file management, ensuring smooth functionality across different user operations.
   - Implemented text-based user interface for easy navigation and interaction.
   - Demonstrated skills in Python programming, file handling, and modular code design.
