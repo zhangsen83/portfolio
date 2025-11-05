@@ -13,9 +13,10 @@
 ---
 
 ## Tech Stack
-- **Languages:** Python, Java, SQL, HTML, CSS, JavaScript, Bash/Shell Scripting, Assembly, JSON, C++ (learning).
-- **Tools & Software:** Git/GitHub, Microsoft Office, Eclipse, IDLE, Visual Studio Code, Google Cloud Platform, Visual Paradigm, LucidChart, Power BI, Figma, Canva, Zapworks, Wix, ADB andriod
+- **Languages:** Python, Java, SQL, HTML, CSS, JavaScript, Bash/Shell Scripting, Assembly, C++ (learning).
+- **Tools & Software:** Git/GitHub, Microsoft Office (Word/PowerPoint/Excel/Visio), Google (Docs/Sheets), Eclipse, IDLE, Visual Studio Code, Google Cloud Platform (TensorFlow, Vertex AI, BigQuery), Visual Paradigm, LucidChart, Power BI, Figma, Canva, Zapworks, Wix, ADB andriod, Unreal Engine 5, Blender.
 - **Databases:** MySQL, Oracle APEX
+- **Operating System:** Windows, MacOs, Linux(Ubuntu)
 
 ---
 
